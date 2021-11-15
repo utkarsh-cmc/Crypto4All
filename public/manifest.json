@@ -1,0 +1,22 @@
+{
+    "short_name" : "Crypt4All",
+    "name" : "Crypto4All",
+    "icons" : [
+        {
+            "src" : "/images/logo.png",
+            "type" : "image/png",
+            "size" : "512x512",
+            "purpose": "any maskable "
+        },
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "192x192"
+            
+          }
+    ],
+    "start_url" : ".",
+    "display" : "standalone",
+    "theme_color" : "#000000",
+    "background_color" : "#ffffff"
+}
